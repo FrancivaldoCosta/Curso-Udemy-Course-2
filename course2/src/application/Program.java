@@ -23,8 +23,7 @@ public class Program {
 		
 		System.out.println(product.name + ", " + product.price + ", " + product.quantity);
 		
-		
-		
+				
 		
 
 		sc.close();
